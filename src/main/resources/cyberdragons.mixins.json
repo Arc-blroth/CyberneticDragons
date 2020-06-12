@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "ai.arcblroth.mod.mixin",
+  "package": "ai.arcblroth.cyberdragons.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],

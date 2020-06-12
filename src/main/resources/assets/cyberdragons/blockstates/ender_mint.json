@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "cyberdragons:block/ender_mint_stage0"
+    },
+    "age=1": {
+      "model": "cyberdragons:block/ender_mint_stage1"
+    },
+    "age=2": {
+      "model": "cyberdragons:block/ender_mint_stage2"
+    },
+    "age=3": {
+      "model": "cyberdragons:block/ender_mint_stage3"
+    },
+    "age=4": {
+      "model": "cyberdragons:block/ender_mint_stage4"
+    },
+    "age=5": {
+      "model": "cyberdragons:block/ender_mint_stage5"
+    },
+    "age=6": {
+      "model": "cyberdragons:block/ender_mint_stage6"
+    },
+    "age=7": {
+      "model": "cyberdragons:block/ender_mint_stage7"
+    }
+  }
+}

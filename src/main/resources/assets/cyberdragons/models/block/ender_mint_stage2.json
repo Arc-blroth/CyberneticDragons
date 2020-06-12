@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cyberdragons:block/ender_mint_stage2"
+  }
+}

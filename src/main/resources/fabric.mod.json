@@ -15,10 +15,10 @@
   "environment": "*",
   "entrypoints": {
 	"main": [
-      "ai.arcblroth.cyberdragons.Mod"
+      "ai.arcblroth.cyberdragons.CyberDragons"
 	],
     "client": [
-      "ai.arcblroth.cyberdragons.ModClient"
+      "ai.arcblroth.cyberdragons.CyberDragonsClient"
     ]
   },
 
