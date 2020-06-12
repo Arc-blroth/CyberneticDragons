@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cyberdragons:ender_leaf"
+  },
+  "addition": {
+    "item": "minecraft:blue_ice"
+  },
+  "result": {
+    "item": "cyberdragons:ender_mint"
+  }
+}

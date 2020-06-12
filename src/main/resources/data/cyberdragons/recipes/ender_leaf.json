@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "CLC",
+    "#C#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_pearl"
+    },
+    "C": {
+      "item": "minecraft:chorus_flower"
+    },
+    "L": {
+      "item": "minecraft:large_fern"
+    }
+  },
+  "result": {
+    "item": "cyberdragons:ender_leaf",
+    "count": 1
+  }
+}
